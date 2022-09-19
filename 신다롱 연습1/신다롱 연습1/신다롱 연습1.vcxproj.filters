@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="201921005 신동훈 실습1주차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습문제2주차 종합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준2108 시간초과.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3주차 실습문제2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3주차 실습문제1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="id_password.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="링크드리스트 수정할거.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="링크드 리스트 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4주차 실습문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 후위.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5주차 실습문제 종합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형 큐.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 큐4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐 피보나치.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형 덱.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="덱큐 회문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준1021.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미로 도착지 여러일떄.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6주차 실습문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습문제7주차 스택종합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 다항식.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="영화 프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="영화프로그램2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9주차실습문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형 연결리스트 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이중연결리스트 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이중연결리스트mp3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 스택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 큐.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="음악플레이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="전위,중위,후위 트리 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리형 스택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="레벨순회.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수식트리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디렉토리 용량 계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 실습과제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="헤드음악플레이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리 2개비교 및 트리 정보.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scv1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scv2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스레드 이진트리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진탐색트리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진 탐색 트리 영어사전.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리 입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리 연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미리한거1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미리한거2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12주차 실습문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13주차 실습문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진트리 전화번호.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="우선순위 큐 기본.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="히프정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="허프만 코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="우선순위 작성.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15주차 과제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

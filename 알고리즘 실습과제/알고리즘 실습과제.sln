@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘 실습과제", "알고리즘 실습과제\알고리즘 실습과제.vcxproj", "{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Debug|x64.ActiveCfg = Debug|x64
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Debug|x64.Build.0 = Debug|x64
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Debug|x86.Build.0 = Debug|Win32
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Release|x64.ActiveCfg = Release|x64
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Release|x64.Build.0 = Release|x64
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Release|x86.ActiveCfg = Release|Win32
+		{AA055ECB-1593-43B2-A8CF-FE92BC3A173E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCEDEBA9-4764-4F7D-ADCE-0315855E38BA}
+	EndGlobalSection
+EndGlobal
